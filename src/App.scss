@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  &--imgage {
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    img {
+      max-width: 100%;
+      padding: 0 10px;
+    }
+  }
+  &--menu {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    a {
+      padding: 0 10px;
+      text-decoration: unset;
+    }
+  }
+}

@@ -1,0 +1,27 @@
+.root {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  letter-spacing: normal;
+  word-spacing: normal;
+  text-transform: none;
+  text-indent: 0px;
+  text-shadow: none;
+  color: #fff;
+  background: #e2c275;
+  border-color: #e2c275;
+  padding: 12px 16px;
+  cursor: pointer;
+  transition: all .3s ease;
+  &:hover, &:focus {
+    border-color: #d9af4b;
+    background: #d9af4b;
+  }
+}
