@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hello-health-assignment/static/css/main.89828f34.chunk.css",
+    "main.js": "/hello-health-assignment/static/js/main.eca51791.chunk.js",
+    "main.js.map": "/hello-health-assignment/static/js/main.eca51791.chunk.js.map",
+    "runtime-main.js": "/hello-health-assignment/static/js/runtime-main.6d834eb0.js",
+    "runtime-main.js.map": "/hello-health-assignment/static/js/runtime-main.6d834eb0.js.map",
+    "static/js/2.7865ba58.chunk.js": "/hello-health-assignment/static/js/2.7865ba58.chunk.js",
+    "static/js/2.7865ba58.chunk.js.map": "/hello-health-assignment/static/js/2.7865ba58.chunk.js.map",
+    "static/js/3.6d4a3a20.chunk.js": "/hello-health-assignment/static/js/3.6d4a3a20.chunk.js",
+    "static/js/3.6d4a3a20.chunk.js.map": "/hello-health-assignment/static/js/3.6d4a3a20.chunk.js.map",
+    "index.html": "/hello-health-assignment/index.html",
+    "static/css/main.89828f34.chunk.css.map": "/hello-health-assignment/static/css/main.89828f34.chunk.css.map",
+    "static/js/2.7865ba58.chunk.js.LICENSE.txt": "/hello-health-assignment/static/js/2.7865ba58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d834eb0.js",
+    "static/js/2.7865ba58.chunk.js",
+    "static/css/main.89828f34.chunk.css",
+    "static/js/main.eca51791.chunk.js"
+  ]
+}
