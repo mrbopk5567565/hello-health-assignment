@@ -1,14 +1,25 @@
 .App {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  &--imgage {
+  width: 100%;
+  &--header {
+    padding: 10px 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 100%;
+  }
+  &--image {
     width: 50%;
     display: flex;
     justify-content: flex-start;
     img {
-      max-width: 100%;
+      max-width: 250px;
       padding: 0 10px;
+    }
+    @media (max-width: 600px) {
+      img {
+        max-width: 150px;
+        padding: 0 10px;
+      }
     }
   }
   &--menu {
